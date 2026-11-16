@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeminarPerkembanganKarier</string>
+    <string name="sapa">Halo %1$s, usia Anda %2$d tahun.\nPendaftaran Berhasil!</string>
+    <string name="judul">PENDAFTARAN SEMINAR\nPERKEMBANGAN KARIER</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="usia">Usia</string>
+    <string name="kirim">Kirim Data ke Form</string>
+    <string name="event">Buka Info Event</string>
+    <string name="kembali">Kembali</string>
+</resources>
